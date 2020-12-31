@@ -2,10 +2,10 @@
 
  A simple example of how to use `@open-sorcerers/breakpoints` and `bodypaint` together in `create-react-app`.
 
-1. git clone https://github.com/open-sorcerers/breakpoints-and-bodypaint-example.git bbe
-2. cd bbe
-3. yarn
-4. yarn start
+1. `git clone https://github.com/open-sorcerers/breakpoints-and-bodypaint-example.git bbe`
+2. `cd bbe`
+3. `yarn`
+4. `yarn start`
 
 See [src/App.js](https://github.com/open-sorcerers/breakpoints-and-bodypaint-example/blob/master/src/App.js):
 ```js
